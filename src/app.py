@@ -459,7 +459,7 @@ if Dash is not None:
     )
 
     dash_app.layout = html.Div([
-        html.H3("交互式 UMAP 可视化", className="text-center mt-3"),
+        html.H3("Interactive UMAP visualization", className="text-center mt-3"),
         dcc.Loading(
             id="loading",
             children=[dcc.Graph(id="umap-graph", style={"width": "100%", "height": "650px"})],
@@ -1125,3 +1125,4 @@ if __name__ == "__main__":
     plt.rcParams['axes.unicode_minus'] = False
 
     app.run(host="0.0.0.0", port=5000, debug=True)
+
