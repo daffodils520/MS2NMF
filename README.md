@@ -32,11 +32,11 @@ MS2NMF/
 ├── data/            # 数据文件
 └── results/         # 分析结果与图表
      
-
+``` 
 ---
 
-##
-1. DATA/
+
+##1. DATA/
    - Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) 
      directly acquired from instruments before any preprocessing.
 
