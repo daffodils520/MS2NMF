@@ -29,7 +29,7 @@ MS2NMF/
 ├── requirements.txt # 依赖文件（Python 环境）
 ├── src/             # 源代码
 ├── data/            # 数据文件
-└── results/         # 分析结果与图表
+└── results/         
 
 
 1. DATA/
