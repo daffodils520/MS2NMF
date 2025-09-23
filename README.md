@@ -20,6 +20,9 @@ for mass spectrometry-based natural products discovery.
 
 Directory Structure
 -------------------
+## Repository Structure
+
+```plaintext
 MS2NMF/
 ├── LICENSE          # 总说明文件（说明仓库使用双许可证）
 ├── LICENSE-CODE     # 针对代码的许可证（MIT License）
@@ -29,7 +32,8 @@ MS2NMF/
 ├── requirements.txt # 依赖文件（Python 环境）
 ├── src/             # 源代码
 ├── data/            # 数据文件
-└── results/         
+└── results/         # 分析结果与图表
+     
 
 
 1. DATA/
