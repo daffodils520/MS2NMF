@@ -39,10 +39,20 @@ MS2NMF/
    - Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) 
      directly acquired from instruments before any preprocessing.
 
-## REQUIRMENT
+## CONDA
+1. Install Python3 within conda
+2. Install all packages from the requirements.txt
+3. Start the dashboard locally (defaults to http://localhost:5000)
 
+**Example shell**
+```shell
+# make sure to have Python3 installed via conda (preferably 3.8-11)
+# install requirements
+pip install -r requirements.txt
 
-
+# run or debug the MS2NMF Dashboard with Python 3 on http://localhost:5000
+python ./app.py
+```
 
 Contact
 -------
