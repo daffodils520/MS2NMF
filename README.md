@@ -20,7 +20,7 @@ for mass spectrometry-based natural products discovery.
 
 Directory Structure
 -------------------
-1.DATA
+1.DATA/
 -Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) directly acquired from instruments before any preprocessing.
 
 
