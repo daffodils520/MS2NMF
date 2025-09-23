@@ -36,7 +36,7 @@ MS2NMF/
 ---
 
 
-##1. DATA/
+## DATA
    - Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) 
      directly acquired from instruments before any preprocessing.
 
