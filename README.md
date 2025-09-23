@@ -18,9 +18,7 @@ and global metadata supporting the MS2NMF study. The data package is organized
 to ensure transparency, reproducibility, and re-use of the MS2NMF workflow 
 for mass spectrometry-based natural products discovery.
 
-Directory Structure
--------------------
-## Repository Structure
+## Directory Structure
 
 ```plaintext
 MS2NMF/
