@@ -30,10 +30,7 @@ MS2NMF/
 ├── requirements.txt 
 ├── src/             
 └── data/            
-     
 ``` 
----
-
 
 ## DATA
    - Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) 
