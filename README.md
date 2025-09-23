@@ -20,6 +20,19 @@ for mass spectrometry-based natural products discovery.
 
 Directory Structure
 -------------------
+project-root/
+├── LICENSE          
+├── LICENSE-CODE     
+├── LICENSE-DATA     
+│
+├── README.md
+├── requirements.txt
+├── src/             
+├── data/           
+└── results/         
+
+
+
 1. DATA/
    - Contains the original LC-MS/MS data (mgf, mzML, or equivalent formats) 
      directly acquired from instruments before any preprocessing.
