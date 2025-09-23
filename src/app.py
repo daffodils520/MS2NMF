@@ -1,4 +1,4 @@
-# app.py —— 完整后端（含 /nmf 页面路由 + 所有接口）
+# app.py 
 # -*- coding: utf-8 -*-
 import os
 import json
@@ -1125,4 +1125,5 @@ if __name__ == "__main__":
     plt.rcParams['axes.unicode_minus'] = False
 
     app.run(host="0.0.0.0", port=5000, debug=True)
+
 
