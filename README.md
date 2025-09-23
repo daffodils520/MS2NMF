@@ -55,3 +55,26 @@ Directory Structure
      * Overview of the MS2NMF analysis pipeline (filtering, matrix 
        optimization, NMF decomposition, database annotation, GNPS integration).
    - Serves as contextual documentation for all datasets.
+
+Files
+-----
+README.txt (this file): 
+   - Provides an overview of the entire dataset structure and content.
+
+Usage
+-----
+- Start from **raw/** if re-running the MS2NMF workflow from scratch.
+- Use **processed/** for benchmarking or validating each step of the pipeline.
+- Refer to **figure_source_data/** to reproduce specific figures in the paper.
+- Consult **GLOBAL_METADATA/** for complete details on experimental methods, 
+  computational approaches, and MS2NMF rationale.
+
+Contact
+-------
+For questions regarding the dataset or workflow, please contact:
+shuchenlan@simm.ac.cn  (Chenlan Shu，Zhuohao Yu)
+
+
+
+
+
