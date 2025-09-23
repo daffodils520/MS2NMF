@@ -72,7 +72,7 @@ Usage
 Contact
 -------
 For questions regarding the dataset or workflow, please contact:
-shuchenlan@simm.ac.cn  (Chenlan Shu，Zhuohao Yu)
+shuchenlan@simm.ac.cn  (Chenlan Shu) or yuzhuohao@simm.ac.cn （Zhuohao Yu）
 
 
 
